@@ -60,7 +60,7 @@ dom-manipulation-projects/
     ├── imgs/
     ├── styles/
     ├── 10-rock-paper-scissors.js
-    ├── domcss.html
+    ├── index.html
     └── rock-paper-scissor.html
 ```
 
